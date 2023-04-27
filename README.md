@@ -1,3 +1,4 @@
-# Hello there
+# Hello there 👋
 
-I am Kaleb Münch currently a bachelors student at the University of Applied Sciences "HFT" in Stuttgart, studying computer science.
+I am Kaleb Münch
+Check out my [Website](https://kamuench.github.io/blog/)
