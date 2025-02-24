@@ -3,8 +3,7 @@
 I am Kaleb Münch  
 - I love tinkering with Arduino 🕹️ 
 - I am interested in embedded programming
-- I have experience with test automation and developing mobile applications
+- I have some experience in test automation, parser creation, mobile application development
 
-.NET, Java, Android Studio
+I have worked so far mostly with **C#**, **Java** and **C++**.
 
-Check out my own favorite projects on GitHub: [Neural Network](https://github.com/KaMuench/neuronales-netz) and [Sudoku](https://github.com/KaMuench/sudoku)!  
